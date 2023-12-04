@@ -1,9 +1,8 @@
 # NewsApp-With-Firebase
-## Student Name: Pranjali Kotgire
-## University Name: San Jose State University
-## Professor : Dr.Kaikai Liu
-## ISA : Hari Haran Kura
-## Demo:https://www.youtube.com/watch?v=04wgdx42zmQ
+## Student Name: Praveen kumar
+## University Name:shekhawati group of institution
+## Professor : KK vyash sir
+Demo:https://www.youtube.com/watch?v=04wgdx42zmQ
 
 ## Project Functionalities
 1. Sign Up using firebase
