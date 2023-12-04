@@ -1,6 +1,6 @@
 # NewsApp-With-Firebase
 ## Student Name: Praveen kumar
-## University Name:shekhawati group of institution
+## University Name: shekhawati group of institution
 ## Professor : KK vyash sir
 Demo:https://www.youtube.com/watch?v=04wgdx42zmQ
 
